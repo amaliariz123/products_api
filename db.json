@@ -1,0 +1,125 @@
+{
+"products" : [
+{
+  "id": 1,
+  "judul": "Pork - Inside",
+  "harga": "$5.87"
+}, {
+  "id": 2,
+  "judul": "Puree - Pear",
+  "harga": "$1.80"
+}, {
+  "id": 3,
+  "judul": "Cabbage - Green",
+  "harga": "$7.65"
+}, {
+  "id": 4,
+  "judul": "Wine - Magnotta - Cab Franc",
+  "harga": "$3.25"
+}, {
+  "id": 5,
+  "judul": "Dill - Primerba, Paste",
+  "harga": "$1.18"
+}, {
+  "id": 6,
+  "judul": "Gingerale - Schweppes, 355 Ml",
+  "harga": "$8.53"
+}, {
+  "id": 7,
+  "judul": "Carbonated Water - Peach",
+  "harga": "$4.43"
+}, {
+  "id": 8,
+  "judul": "Soup Campbells Mexicali Tortilla",
+  "harga": "$0.58"
+}, {
+  "id": 9,
+  "judul": "Ecolab - Solid Fusion",
+  "harga": "$5.98"
+}, {
+  "id": 10,
+  "judul": "Sauce - Hp",
+  "harga": "$1.21"
+}, {
+  "id": 11,
+  "judul": "Potatoes - Purple, Organic",
+  "harga": "$4.81"
+}, {
+  "id": 12,
+  "judul": "Oneshot Automatic Soap System",
+  "harga": "$5.52"
+}, {
+  "id": 13,
+  "judul": "Vodka - Hot, Lnferno",
+  "harga": "$0.66"
+}, {
+  "id": 14,
+  "judul": "Bread - Bistro White",
+  "harga": "$8.85"
+}, {
+  "id": 15,
+  "judul": "Shrimp - 21/25, Peel And Deviened",
+  "harga": "$8.13"
+}, {
+  "id": 16,
+  "judul": "Lamb Rack Frenched Australian",
+  "harga": "$9.58"
+}, {
+  "id": 17,
+  "judul": "Foam Dinner Plate",
+  "harga": "$4.71"
+}, {
+  "id": 18,
+  "judul": "Wine - White, Riesling, Henry Of",
+  "harga": "$7.93"
+}, {
+  "id": 19,
+  "judul": "Hickory Smoke, Liquid",
+  "harga": "$4.43"
+}, {
+  "id": 20,
+  "judul": "Croissants Thaw And Serve",
+  "harga": "$9.94"
+}, {
+  "id": 21,
+  "judul": "Turkey - Breast, Bone - In",
+  "harga": "$3.17"
+}, {
+  "id": 22,
+  "judul": "Table Cloth 144x90 White",
+  "harga": "$6.69"
+}, {
+  "id": 23,
+  "judul": "Lobster - Baby, Boiled",
+  "harga": "$3.22"
+}, {
+  "id": 24,
+  "judul": "Beer - Steamwhistle",
+  "harga": "$9.93"
+}, {
+  "id": 25,
+  "judul": "Cheese Cloth",
+  "harga": "$0.73"
+}, {
+  "id": 26,
+  "judul": "Sage - Ground",
+  "harga": "$0.92"
+}, {
+  "id": 27,
+  "judul": "Radish - Black, Winter, Organic",
+  "harga": "$1.15"
+}, {
+  "id": 28,
+  "judul": "Peppercorns - Pink",
+  "harga": "$1.89"
+}, {
+  "id": 29,
+  "judul": "Nantucket Cranberry Juice",
+  "harga": "$9.43"
+}, {
+  "id": 30,
+  "judul": "The Pop Shoppe - Black Cherry",
+  "harga": "$1.72"
+}
+]
+}
